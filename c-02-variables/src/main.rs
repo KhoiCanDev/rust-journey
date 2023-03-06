@@ -10,7 +10,7 @@ fn main() {
     // tuple in action
     let tup = (500, 6.4, 1);
     let (x, y, z) = tup;
-    println!("The value of y is: {y}")
+    println!("The value of y is: {y}");
 
     // array in action
     let a = [1, 2, 3, 4, 5];
